@@ -338,7 +338,7 @@ class MY_Profiler extends CI_Profiler {
 	* Shows both CI session data and custom session data
 	*/
 		
-		$media_path = "/Codeigniter/media/application/debug_toolbar";
+		$media_path = "/media/apps/debug_toolbar";
 		$ci_version = CI_VERSION;
 		$cidt_version = "0.1.u";
 
